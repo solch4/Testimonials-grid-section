@@ -17,6 +17,11 @@ Users should be able to:
 
 <img width="600" src="./screenshots/screenshot-desktop.png" />
 
+## Links
+
+- Solution URL: https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-sUA6jqMwj-
+- Live Site URL: https://solch4.github.io/Testimonials-grid-section/
+
 ## Built with
 
 - Semantic HTML5 markup
